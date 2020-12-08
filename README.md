@@ -1,8 +1,7 @@
 # Meal-Management-System
 ## Features:
 
-It is a web-based application. User can easily add/ delete/ update information about mess
-member, calculate the meal and average rate of meal etc.
+It is a web-based application. User can easily add/ delete/ update information about mess member, calculate the meal and average rate of meal etc.
 
 ## Technology:
 
